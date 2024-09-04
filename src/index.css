@@ -1,0 +1,29 @@
+
+body {
+  margin: 0;
+  padding: 1px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:url(https://external-preview.redd.it/highlands-live-wallpaper-see-comments-for-downloadable-v0-aDQzbzg4b3FldmVjMYWu2vjTGU4YjsdUVIPydG5i7hSjaF1f--b9eplknYBZ.png?format=pjpg&auto=webp&s=1ea9f0b4904560c6e407e4db70aab03978d0d0da)  no-repeat ;
+  /* background: url(https://cdn.pixabay.com/video/2017/11/12/12917-242532967_tiny.jpg) no-repeat; */
+  /* background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1I111XCywMoBB0fjCCmdW2i3gVGZRvyQaw&s)no-repeat; */
+  background-size: cover;
+  color: aqua;
+  /* animation: animateBg 5s linear infinite;
+   */
+  
+} 
+
+/* @keyframes animateBg{
+  100%{
+      filter: hue-rotate(360deg);
+  }
+} */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

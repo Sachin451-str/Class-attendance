@@ -1,0 +1,28 @@
+/* Navbar.css */
+
+/* Make the navbar background transparent */
+
+.navbar {
+    background-color: transparent !important;
+    /* position: fixed !important; */
+    /* z-index: 1000 !important; */
+    box-shadow: 0px 0px 1px white !important;
+     backdrop-filter: blur(8px) !important;
+     
+  }
+  
+  /* Change the hover color of navbar items to cyan */
+  .navbar-nav .nav-link:hover {
+    color: cyan !important;
+  }
+  
+  /* Optional: Change the active link color to cyan */
+  .navbar-nav .nav-link.active {
+    color: cyan !important;
+  }
+  
+  /* Custom margin for navbar items */
+  .custom-margin {
+    margin-right: 40px;
+  }
+  
